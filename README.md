@@ -1,4 +1,4 @@
-# Fraud_Detection_and_Risk_Analysis_using_SQL
+# Fraud Detection and Risk Analysis using SQL
 
 Project Overview
 
